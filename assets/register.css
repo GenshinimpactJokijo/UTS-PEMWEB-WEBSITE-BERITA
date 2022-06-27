@@ -1,0 +1,21 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-image: url("Register.jpg");
+  background-position-x: 50%;
+  background-position-y: 50%;
+}
+
+.form-text {
+  margin-top: 15px;
+  font-size: smaller;
+}
+
+.card {
+  width: 50%;
+  background-color: #444;
+  color: white;
+  box-shadow: 5px 5px 10px #040e2a;
+}

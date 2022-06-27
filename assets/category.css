@@ -1,0 +1,54 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: #444;
+}
+
+p {
+  margin-bottom: 5px;
+}
+
+td {
+  width: 130px;
+}
+
+h1,
+h3 {
+  color: whitesmoke;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+.card {
+  border: 0;
+  background-color: #111;
+}
+
+.card-body {
+  border-radius: 5px;
+}
+
+.card-title {
+  color: #0dcaf0;
+  text-decoration: none;
+}
+
+.card-text {
+  color: #0dcaf0;
+  font-size: small;
+}
+
+.card-caption {
+  font-size: smaller;
+  color: ivory;
+  margin: 0;
+}
+
+.title-link {
+  color: whitesmoke;
+  text-decoration: none;
+}

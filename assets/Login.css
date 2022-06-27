@@ -1,0 +1,22 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-image: url(https://stories.uq.edu.au/contact-magazine/2020/future-of-news-media-print-edition/assets/lj6JYTgZ7b/uq-contact-print-media-2560x1440.jpeg);
+  background-position-y: 15%;
+  background-position-x: 25%;
+}
+
+.form-text {
+  margin-top: 20px;
+  font-size: small;
+}
+
+.card {
+  min-width: 500px;
+  width: 40%;
+  background-color: #555;
+  color: white;
+  box-shadow: 5px 5px 10px #222;
+}
